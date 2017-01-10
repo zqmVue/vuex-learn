@@ -1,0 +1,24 @@
+{
+  "name": "vuex-learn",
+  "version": "1.0.0",
+  "description": "http://vuex.vuejs.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zqmVue/vuex-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zqmVue/vuex-learn/issues"
+  },
+  "homepage": "https://github.com/zqmVue/vuex-learn#readme",
+  "dependencies": {
+    "vue": "^2.1.8",
+    "vuex": "^2.1.1"
+  }
+}
