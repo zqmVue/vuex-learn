@@ -1,0 +1,16 @@
+<script src="./vue.js"></script>
+<div class="app">
+  <p>{{message}}</p>
+  <span v-bind:title="message">
+    Hello world!
+  </span>
+</div>
+
+<script type="text/javascript">
+  let app = new Vue({
+    el: '.app',
+    data: {
+      message: 'Hello Vue.js!'
+    }
+  })
+</script>
